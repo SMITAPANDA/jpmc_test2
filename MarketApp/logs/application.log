@@ -1,0 +1,334 @@
+2017-05-15 23:54:30 INFO  HelperUtil:60 - =============Daily Report ========================
+2017-05-15 23:54:30 INFO  HelperUtil:65 - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:1092.63 USD Outgoing transaction:9933.0 USD
+2017-05-15 23:54:30 INFO  HelperUtil:65 - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:13244.0 USD
+2017-05-15 23:54:30 INFO  HelperUtil:65 - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:10025.0 USD
+2017-05-15 23:54:30 INFO  HelperUtil:65 - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:6622.0 USD
+2017-05-15 23:54:30 INFO  HelperUtil:65 - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:14899.5 USD Outgoing transaction:0.0 USD
+2017-05-15 23:54:30 INFO  HelperUtil:68 - ===========End of Report=======================
+2017-05-15 23:54:30 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-15 23:54:30 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:54:30 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:54:30 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-15 23:54:30 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:54:30 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:54:30 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:55:35 INFO  HelperUtilss - =============Daily Report ========================
+2017-05-15 23:55:35 INFO  HelperUtilss - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:1092.63 USD Outgoing transaction:9933.0 USD
+2017-05-15 23:55:35 INFO  HelperUtilss - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:13244.0 USD
+2017-05-15 23:55:35 INFO  HelperUtilss - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:10025.0 USD
+2017-05-15 23:55:35 INFO  HelperUtilss - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:6622.0 USD
+2017-05-15 23:55:35 INFO  HelperUtilss - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:14899.5 USD Outgoing transaction:0.0 USD
+2017-05-15 23:55:35 INFO  HelperUtilss - ===========End of Report=======================
+2017-05-15 23:55:35 INFO  HelperUtilss - ==================================================Entity List ================================================================
+2017-05-15 23:55:35 INFO  HelperUtilss - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:55:35 INFO  HelperUtilss - ==============================================================================================================================
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:55:35 INFO  HelperUtilss - ==================================================Entity List ================================================================
+2017-05-15 23:55:35 INFO  HelperUtilss - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:55:35 INFO  HelperUtilss - ==============================================================================================================================
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:55:35 INFO  HelperUtilss - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:55:49 INFO  HelperUtil - =============Daily Report ========================
+2017-05-15 23:55:49 INFO  HelperUtil - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:1092.63 USD Outgoing transaction:9933.0 USD
+2017-05-15 23:55:49 INFO  HelperUtil - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:13244.0 USD
+2017-05-15 23:55:49 INFO  HelperUtil - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:10025.0 USD
+2017-05-15 23:55:49 INFO  HelperUtil - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:6622.0 USD
+2017-05-15 23:55:49 INFO  HelperUtil - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:14899.5 USD Outgoing transaction:0.0 USD
+2017-05-15 23:55:49 INFO  HelperUtil - ===========End of Report=======================
+2017-05-15 23:55:49 INFO  HelperUtil - ==================================================Entity List ================================================================
+2017-05-15 23:55:49 INFO  HelperUtil - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:55:49 INFO  HelperUtil - ==============================================================================================================================
+2017-05-15 23:55:49 INFO  HelperUtil - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:55:49 INFO  HelperUtil - ==================================================Entity List ================================================================
+2017-05-15 23:55:49 INFO  HelperUtil - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:55:49 INFO  HelperUtil - ==============================================================================================================================
+2017-05-15 23:55:49 INFO  HelperUtil - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:55:49 INFO  HelperUtil - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:60 - =============Daily Report ========================
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:65 - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:1092.63 USD Outgoing transaction:9933.0 USD
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:65 - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:13244.0 USD
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:65 - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:10025.0 USD
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:65 - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:6622.0 USD
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:65 - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:14899.5 USD Outgoing transaction:0.0 USD
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:68 - ===========End of Report=======================
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:33 - ==============================================================================================================================
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:33 - ==============================================================================================================================
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:56:08 INFO  com.jpmorgan.market.HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - =============Daily Report ========================
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:1092.63 USD Outgoing transaction:9933.0 USD
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:13244.0 USD
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:10025.0 USD
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:6622.0 USD
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:14899.5 USD Outgoing transaction:0.0 USD
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - ===========End of Report=======================
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - ==================================================Entity List ================================================================
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - ==============================================================================================================================
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - ==================================================Entity List ================================================================
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - ==============================================================================================================================
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:56:23 INFO  com.jpmorgan.market.HelperUtil - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:56:31 INFO  - =============Daily Report ========================
+2017-05-15 23:56:31 INFO  - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:1092.63 USD Outgoing transaction:9933.0 USD
+2017-05-15 23:56:31 INFO  - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:13244.0 USD
+2017-05-15 23:56:31 INFO  - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:10025.0 USD
+2017-05-15 23:56:31 INFO  - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:6622.0 USD
+2017-05-15 23:56:31 INFO  - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:14899.5 USD Outgoing transaction:0.0 USD
+2017-05-15 23:56:31 INFO  - ===========End of Report=======================
+2017-05-15 23:56:31 INFO  - ==================================================Entity List ================================================================
+2017-05-15 23:56:31 INFO  - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:56:31 INFO  - ==============================================================================================================================
+2017-05-15 23:56:31 INFO  - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:56:31 INFO  - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:56:31 INFO  - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:56:31 INFO  - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:56:31 INFO  - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:56:31 INFO  - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:56:31 INFO  - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:56:31 INFO  - ==================================================Entity List ================================================================
+2017-05-15 23:56:31 INFO  - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:56:31 INFO  - ==============================================================================================================================
+2017-05-15 23:56:31 INFO  - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:56:31 INFO  - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:56:31 INFO  - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:56:31 INFO  - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:56:31 INFO  - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:56:31 INFO  - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:56:31 INFO  - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:56:54 INFO  HelperUtil:60 - =============Daily Report ========================
+2017-05-15 23:56:54 INFO  HelperUtil:65 - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:1092.63 USD Outgoing transaction:9933.0 USD
+2017-05-15 23:56:54 INFO  HelperUtil:65 - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:13244.0 USD
+2017-05-15 23:56:54 INFO  HelperUtil:65 - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:10025.0 USD
+2017-05-15 23:56:54 INFO  HelperUtil:65 - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:6622.0 USD
+2017-05-15 23:56:54 INFO  HelperUtil:65 - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:14899.5 USD Outgoing transaction:0.0 USD
+2017-05-15 23:56:54 INFO  HelperUtil:68 - ===========End of Report=======================
+2017-05-15 23:56:54 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-15 23:56:54 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:56:54 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-15 23:56:54 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-15 23:56:54 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-15 23:56:54 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-15 23:56:54 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-16 01:00:07 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:00:07 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-16 01:00:07 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-16 01:00:07 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-16 01:00:07 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:00:07 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:00:07 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:00:07 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:00:07 INFO  HelperUtil:60 - =============Daily Report ========================
+2017-05-16 01:00:07 INFO  HelperUtil:65 - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:1092.63 USD Outgoing transaction:9933.0 USD
+2017-05-16 01:00:07 INFO  HelperUtil:65 - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:13244.0 USD
+2017-05-16 01:00:07 INFO  HelperUtil:65 - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:10025.0 USD
+2017-05-16 01:00:07 INFO  HelperUtil:65 - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:6622.0 USD
+2017-05-16 01:00:07 INFO  HelperUtil:65 - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:14899.5 USD Outgoing transaction:0.0 USD
+2017-05-16 01:00:07 INFO  HelperUtil:68 - ===========End of Report=======================
+2017-05-16 01:00:07 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:00:07 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:00:07 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-16 01:00:07 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-16 01:00:07 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-16 01:00:07 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:00:07 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:00:07 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-16 01:00:07 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-16 01:00:07 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-16 01:00:07 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-16 01:00:07 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:01:59 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:01:59 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-16 01:01:59 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-16 01:01:59 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-16 01:01:59 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:01:59 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:01:59 INFO  HelperUtil:60 - =============Daily Report ========================
+2017-05-16 01:01:59 INFO  HelperUtil:68 - ===========End of Report=======================
+2017-05-16 01:01:59 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:01:59 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:01:59 INFO  HelperUtil:60 - =============Daily Report ========================
+2017-05-16 01:01:59 INFO  HelperUtil:65 - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:1092.63 USD Outgoing transaction:9933.0 USD
+2017-05-16 01:01:59 INFO  HelperUtil:65 - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:13244.0 USD
+2017-05-16 01:01:59 INFO  HelperUtil:65 - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:10025.0 USD
+2017-05-16 01:01:59 INFO  HelperUtil:65 - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:6622.0 USD
+2017-05-16 01:01:59 INFO  HelperUtil:65 - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:14899.5 USD Outgoing transaction:0.0 USD
+2017-05-16 01:01:59 INFO  HelperUtil:68 - ===========End of Report=======================
+2017-05-16 01:01:59 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:01:59 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:01:59 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-16 01:01:59 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-16 01:01:59 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-16 01:01:59 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:01:59 INFO  HelperUtilTest:23 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:01:59 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-16 01:01:59 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-16 01:01:59 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [foo, B, 0.5, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 200, 100.25, 1]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [bar, S, 0.22, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 450, 150.5, 1]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test1, B, 0.22, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 200, 150.5, 5]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test2, B, 0.22, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 4]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test3, B, 0.22, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 200, 150.5, 3]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test4, B, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 300, 150.5, 2]
+2017-05-16 01:01:59 INFO  HelperUtil:37 - Item [test4, S, 0.22, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 33, 150.5, 2]
+2017-05-16 01:01:59 INFO  HelperUtilTest:29 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:07:36 INFO  HelperUtilTest:24 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:07:36 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-16 01:07:36 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-16 01:07:36 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [foo, B, 3.8883183, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 65, 350.72537, 2]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [bar, S, 2.0151033, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 278, 222.64638, 2]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test1, B, 0.79536796, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 227, 226.38788, 4]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test2, B, 4.217857, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 482, 426.4403, 1]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test3, B, 0.2755761, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 33, 410.99442, 5]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test4, B, 0.41248262, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 267, 454.94342, 3]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test4, S, 1.873239, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 457, 456.35764, 1]
+2017-05-16 01:07:36 INFO  HelperUtilTest:30 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:07:36 INFO  HelperUtilTest:24 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:07:36 INFO  HelperUtil:60 - =============Daily Report ========================
+2017-05-16 01:07:36 INFO  HelperUtil:68 - ===========End of Report=======================
+2017-05-16 01:07:36 INFO  HelperUtilTest:30 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:07:36 INFO  HelperUtilTest:24 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:07:36 INFO  HelperUtil:60 - =============Daily Report ========================
+2017-05-16 01:07:36 INFO  HelperUtil:65 - Date:Wed Jan 04 00:01:00 CST 2017  Incoming transaction:19732.67 USD Outgoing transaction:92196.945 USD
+2017-05-16 01:07:36 INFO  HelperUtil:65 - Date:Mon Jan 09 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:337940.56 USD
+2017-05-16 01:07:36 INFO  HelperUtil:65 - Date:Fri Jan 01 00:01:00 CST 2016  Incoming transaction:0.0 USD Outgoing transaction:257764.6 USD
+2017-05-16 01:07:36 INFO  HelperUtil:65 - Date:Sun Jan 08 00:01:00 CST 2017  Incoming transaction:0.0 USD Outgoing transaction:199663.94 USD
+2017-05-16 01:07:36 INFO  HelperUtil:65 - Date:Thu Jan 07 00:01:00 CST 2016  Incoming transaction:179466.23 USD Outgoing transaction:0.0 USD
+2017-05-16 01:07:36 INFO  HelperUtil:68 - ===========End of Report=======================
+2017-05-16 01:07:36 INFO  HelperUtilTest:30 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:07:36 INFO  HelperUtilTest:24 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:07:36 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-16 01:07:36 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-16 01:07:36 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test4, S, 3.0350149, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 343, 348.10034, 1]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test1, B, 4.9768915, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 332, 155.52505, 1]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test3, B, 4.5202346, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 458, 109.54942, 2]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [bar, S, 2.9579127, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 128, 362.20828, 2]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [foo, B, 3.7731323, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 248, 129.33083, 3]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test2, B, 1.8642673, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 149, 209.14398, 4]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test4, B, 1.5415034, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 31, 374.6313, 5]
+2017-05-16 01:07:36 INFO  HelperUtilTest:30 - JUnit Test Cases for MarketApp Completed...
+2017-05-16 01:07:36 INFO  HelperUtilTest:24 - JUnit Test Cases for MarketApp Starts...
+2017-05-16 01:07:36 INFO  HelperUtil:31 - ==================================================Entity List ================================================================
+2017-05-16 01:07:36 INFO  HelperUtil:32 - Entity, Buy/Sell, AgreedFx, Currency, Instruction Date , Settlement Date, Actual Settlement Date, Units, Price per Unit, Rank
+2017-05-16 01:07:36 INFO  HelperUtil:33 - ==============================================================================================================================
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [foo, B, 1.8641931, USD, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, Fri Jan 01 00:01:00 CST 2016, 466, 299.35965, 1]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [bar, S, 0.38594633, AED, Tue Jan 05 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, Thu Jan 07 00:01:00 CST 2016, 144, 244.3681, 2]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test1, B, 1.780621, SAR, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Sun Jan 08 00:01:00 CST 2017, 346, 249.46971, 4]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test2, B, 1.0086033, USD, Sun Jan 03 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 353, 486.30734, 3]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test3, B, 2.5469244, USD, Sat Jan 02 00:01:00 CST 2016, Sat Jan 07 00:01:00 CST 2017, Mon Jan 09 00:01:00 CST 2017, 386, 243.52365, 2]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test4, B, 1.6459054, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 115, 448.7331, 5]
+2017-05-16 01:07:36 INFO  HelperUtil:37 - Item [test4, S, 4.0286694, USD, Mon Jan 04 00:01:00 CST 2016, Wed Jan 04 00:01:00 CST 2017, Wed Jan 04 00:01:00 CST 2017, 408, 206.62012, 1]
+2017-05-16 01:07:36 INFO  HelperUtilTest:30 - JUnit Test Cases for MarketApp Completed...
